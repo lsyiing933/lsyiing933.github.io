@@ -1,2 +1,1 @@
-# lsyiing933.github.io
-$ hexo init lsyiing933.github.io
+尛小叮♠MorNii
